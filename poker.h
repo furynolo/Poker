@@ -12,6 +12,7 @@ int is_it_two_pair (int f[]);
 int is_it_a_three_kind (int f[]);
 int is_it_a_four_kind (int f[]);
 int is_it_a_flush (int s[]);
+int is_it_a_straight (int f[]);
+int determine_hand (int f[], int s[]);
 void analyze_hand (int f[], int s[], int hand);
 void deal_extra_cards (int p1_f[], int p1_s[], int p2_f[], int p2_s[], int extra_f[], int extra_s[]);
-
