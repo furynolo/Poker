@@ -1,6 +1,6 @@
 /* This is the programming assignment 8 function file */
 
-#include "pa8.h"
+#include "poker.h"
 
 void shuffle (int wDeck[][13]) /* shuffle cards in deck */
 {

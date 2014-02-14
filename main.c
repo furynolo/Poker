@@ -1,6 +1,6 @@
 /* This is the programming assignment 8 main file */
 
-#include "pa8.h"
+#include "poker.h"
 
 int main (void)
 {
